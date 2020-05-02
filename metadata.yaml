@@ -1,0 +1,26 @@
+_repo: U-Boot-Abenteuer-im-Sperrgebiet_61955
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Selow-Serman, K. E.
+    alias: Selow-Serman, Karl Emil
+    birthdate: 1881
+    deathdate: 1943
+    gutenberg_agent_id: '51695'
+    url: http://www.gutenberg.org/2009/agents/51695
+description: ''
+gutenberg_issued: '2020-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61955'
+  lccn: '21012691'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Naval operations -- Submarine'
+- GITenberg
+title: U-Boot-Abenteuer im Sperrgebiet
+url: http://www.gutenberg.org/ebooks/61955
